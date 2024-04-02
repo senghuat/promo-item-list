@@ -55,7 +55,13 @@
     "NI-GT150ASK",
     "NI-GT200ASK",
     "NI-GT500NSK",
-    "MVC-V12K-GR"
+    "MVC-V12K-GR",
+    "MG-GP18B",
+    "PMC-1303GSX",
+    "WD 1 CLASSIC",
+    "K 2.050",
+    "MC30YVMM",
+    "MC55XVMM"
   ],
   "startDate": "2024-04-01T00:00:00+08:00",
   "endDate": "2024-04-09T23:59:59+08:00"

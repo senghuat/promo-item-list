@@ -1,0 +1,19 @@
+{
+  "textValuesToMatch": [
+    "TH-L50ET60K",
+    "TH-50MX650K",
+    "TH-55MX650K",
+    "TH-65MX650K",
+    "TH-75LX650K",
+    "NA-FD95X1BRT",
+    "NA-FD12VR1BT",
+    "NA-FD14V1BRT",
+    "NA-F80VB7HRT",
+    "NA-128XB1WMY",
+    "NH-E80JA1WMY",
+    "NR-AF166SSMY",
+    "NR-BB211PKMY"
+  ],
+  "startDate": "2024-09-13T00:00:00+08:00",
+  "endDate": "2024-10-06T23:59:59+08:00"
+}

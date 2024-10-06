@@ -1,19 +1,21 @@
 {
   "textValuesToMatch": [
-    "TH-L50ET60K",
-    "TH-50MX650K",
-    "TH-55MX650K",
-    "TH-65MX650K",
-    "TH-75LX650K",
-    "NA-FD95X1BRT",
-    "NA-FD12VR1BT",
-    "NA-FD14V1BRT",
-    "NA-F80VB7HRT",
-    "NA-128XB1WMY",
-    "NH-E80JA1WMY",
-    "NR-AF166SSMY",
-    "NR-BB211PKMY"
+    "2TC32EG2X",
+    "2TC42FD1X",
+    "2TC42FG1X",
+    "PTV-P5030S",
+    "55P655",
+    "UA50DU7000KXXM",
+    "65UT7350PSB",
+    "RF165",
+    "FGT-400NF",
+    "NR-TV261APSM",
+    "SBS-408WP",
+    "PWS-6005X",
+    "WA80CG4545BYFQ",
+    "T2313VSPM",
+    "NA-FD12VR1BT"
   ],
   "startDate": "2024-09-13T00:00:00+08:00",
-  "endDate": "2024-10-06T23:59:59+08:00"
+  "endDate": "2024-10-12T23:59:59+08:00"
 }

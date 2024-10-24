@@ -3,19 +3,24 @@
     "2TC32EG2X",
     "2TC42FD1X",
     "2TC42FG1X",
+    "PTV-Q3240S",
     "PTV-P5030S",
-    "55P655",
     "UA50DU7000KXXM",
+    "55UQ7050PSA",
     "65UT7350PSB",
-    "RF165",
+    "75UR8050PSB",
+    "75P755",
+    "98C655",
+    "MDRD229FGD42-MY",
     "FGT-400NF",
     "NR-TV261APSM",
     "SBS-408WP",
+    "GC-B507PGAM",
     "PWS-6005X",
-    "WA80CG4545BYFQ",
     "T2313VSPM",
-    "NA-FD12VR1BT"
+    "NA-FD12VR1BT",
+    "TWF100-N12312EHA07E"
   ],
   "startDate": "2024-09-13T00:00:00+08:00",
-  "endDate": "2024-10-12T23:59:59+08:00"
+  "endDate": "2024-11-01T23:59:59+08:00"
 }

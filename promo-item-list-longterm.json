@@ -75,7 +75,6 @@
     "BETEL PINE WHITE",
     "BL-60PHNMY",
     "BM750",
-    "BT808",
     "CBL-S251MMH",
     "CF618",
     "CFMF52-4C3L",
@@ -644,8 +643,17 @@
     "TONE-FP5.CMYSLLK",
     "TONE-FP8W.CMYSLLK",
     "WF-1000X BLACK",
-    "WF-SP800N (BLACK)"
+    "WF-SP800N (BLACK)",
+    "MC-YL631RV47",
+    "MC-CL601AV47",
+    "TPF-5182A",
+    "TPF-5182B",
+    "TPF-5202A",
+    "TSF-2162A"
+    
+    
   ],
   "startDate": "2025-05-17T00:00:00+08:00",
   "endDate": "2050-12-31T23:59:59+08:00"
+
 }

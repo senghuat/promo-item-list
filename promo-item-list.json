@@ -1,0 +1,33 @@
+{
+  "textValuesToMatch": [
+    "GR-RT239WE-PMY(68)",
+    "GR-RT310WE-PMY(57)",
+    "GR-RS600WI-PMY(37)",
+    "GR-RT623WE-PGY(B5)",
+    "GR-RF611WI-PGY(22)",
+    "GR-RT835WE-PGY(XK)",
+    "GR-RT835WE-PGY(GG)",
+    "AW-M1100PM(SG)",
+    "AW-DUK1300KM(SG)",
+    "AW-T08DU1400LM(MK)",
+    "AW-T08DUH1800MM(MG)",
+    "TW-BL115A2M(SS)",
+    "TWD-T21BU95UWM(WW)",
+    "TD-E80BT21HWM(WW)",
+    "TWD-T21BU140UWM(MG)",
+    "TWD-T25BZU115MWM(MG)",
+    "F-DSC80XMY(W)",
+    "F-DSD40XMY(W)",
+    "RAS-H10B2KCV2G-M/RAS-H10B2ACV2G-M",
+    "RAS-H13B2KCV2G-M/RAS-H13B2ACV2G-M",
+    "DW-08T1(S)MY",
+    "DW-14F1(S)MY",
+    "DW-14F2(BS)MY",
+    "DW-15F6(G)-MY",
+    "AF-50THVRMY(H)",
+    "AF-74CS1TRMY(H)",
+    "MWP-MM20P(WH)"
+  ],
+  "startDate": "2026-07-26T00:00:00+08:00",
+  "endDate": "2026-08-16T23:59:59+08:00"
+}
